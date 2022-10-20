@@ -17,9 +17,9 @@ const App = () => {
   )
 }
 
-export  Heading;
-export  SubHeading;
-export  InputQuery;
-export SubmitButton;
+export { Heading,
+ SubHeading,
+InputQuery,
+SubmitButton}
 
 
