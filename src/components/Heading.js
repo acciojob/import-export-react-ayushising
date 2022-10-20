@@ -5,4 +5,4 @@ function Heading() {
         <h1>Welcome to our Site.</h1>
     )
 }
-export Heading;
+export default Heading;
