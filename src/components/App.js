@@ -17,7 +17,9 @@ const App = () => {
   )
 }
 
-export 
-{Heading,SubHeading,InputQuery,SubmitButton};
+export default Heading;
+export default ubHeading;
+export default InputQuery;
+export default SubmitButton;
 
 
